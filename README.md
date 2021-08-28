@@ -15,7 +15,7 @@ The following steps should work in most cases, but if you have problems installi
 1. Open a console/terminal
 2. Make sure you have installed a python version >3.6 by executing: `python --version`
 3. Clone the repositoy by executing: `git clone https://github.com/milost/streamlit-tutorial.git`
-4. [**OPTIONAL**]: If you want to [setup a specific virtual environment and activate it][https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/]
+4. [**OPTIONAL**]: If you want to [setup a specific virtual environment and activate it](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
 5. Install tutorial dependencies by executing `pip install -r requirements.txt`
 
 ## Run server
